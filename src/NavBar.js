@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
       <nav className="nav">
         <Link to="" className="site-title">
-          CryptoApp
+          CryptoFind
         </Link>
         <ul>
           <li>
